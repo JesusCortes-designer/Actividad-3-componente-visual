@@ -139,7 +139,7 @@ Es el mismo componente con distinto contenido y comportamiento: el primero deja 
 
 ## Video demo
 
-[Ver video demo](img/videoComponentevisual.mp4)
+[Ver video demo](https://jesuscortes-designer.github.io/Actividad-3-componente-visual/video/demo.mp4)
 ## Estructura del proyecto
 
 ```
