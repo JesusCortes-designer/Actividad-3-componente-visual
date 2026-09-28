@@ -139,8 +139,7 @@ Es el mismo componente con distinto contenido y comportamiento: el primero deja 
 
 ## Video demo
 
-[Ver video (máx. 1 min)](img/videoComponentevisual.mp4)
-
+[Ver video demo](video/demo.mp4)
 ## Estructura del proyecto
 
 ```
